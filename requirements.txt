@@ -1,10 +1,11 @@
 streamlit
 asyncio
 langchain_google_genai
-browser_use
+browser-use
 google-cloud-bigquery
 google-auth
 streamlit-feedback
 requests
 pandas
 python-dotenv
+playwright
