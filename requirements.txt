@@ -1,0 +1,10 @@
+streamlit
+asyncio
+langchain_google_genai
+browser_use
+google-cloud-bigquery
+google-auth
+streamlit-feedback
+requests
+pandas
+python-dotenv
