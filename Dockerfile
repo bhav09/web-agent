@@ -10,6 +10,9 @@ COPY requirements.txt /app/
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Install Playwright and its browser dependencies
+RUN playwright install --with-deps
+
 # Copy the entire application code to the container
 COPY . /app/
 
