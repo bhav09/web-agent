@@ -1,6 +1,6 @@
 streamlit
 asyncio
-langchain_google_genai
+langchain-google-genai
 browser-use
 google-cloud-bigquery
 google-auth
